@@ -6,4 +6,5 @@ Quackman is a Pacman style game where points are eaten while trying to avoid gho
 
 ## Features
 - 4 Ghosts
+- Sounds
 - High scores
